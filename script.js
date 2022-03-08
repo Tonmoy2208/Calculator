@@ -124,5 +124,3 @@ class Calculator {
     calculator.delete()
     calculator.updateDisplay()
   })
-
-  
